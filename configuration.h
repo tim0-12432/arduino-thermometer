@@ -1,0 +1,3 @@
+#define BROKER_HOST "192.168.0.2"
+#define BROKER_PORT 1883
+#define INTERVAL 30000
